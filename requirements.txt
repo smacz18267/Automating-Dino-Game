@@ -1,0 +1,6 @@
+The following packages and libraries have been used:
+opencv
+pyautogui
+numpy
+pillow
+mss
